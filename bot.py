@@ -1,9 +1,9 @@
 import telebot
 import os
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8367825042:AAHmyhnTn3s8Yz18c8WSHttZoTWsY7mNwgY")
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(8367825042:AAHmyhnTn3s8Yz18c8WSHttZoTWsY7mNwgY)
 
 users = {}
 
