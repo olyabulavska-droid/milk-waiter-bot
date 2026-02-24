@@ -35,4 +35,4 @@ def cb(c):
         bot.answer_callback_query(c.id)
         bot.send_message(c.message.chat.id,txt)
 
-bot.infinity_polling(
+bot.infinity_polling()
